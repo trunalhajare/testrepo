@@ -1,0 +1,37 @@
+1. forEach loop
+
+for(datatype variable: array/collection){
+
+
+sysout(variable);
+
+}
+
+-------------------------------------------------------------------------------------------
+2.while loop
+
+initialization
+while(condition){
+
+increment/decrement
+
+
+
+}
+
+-----------------------------------------------------------------------------------------
+3.do while loop
+
+
+initialization
+do{
+
+//printing stmt
+//increament/decrement
+
+}
+
+while(condition)
+
+------------------------------------------------------------------------------------
+https://github.com/abhi9720/BankingPortal-API/
